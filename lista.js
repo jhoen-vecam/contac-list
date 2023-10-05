@@ -21,10 +21,21 @@ console.log("lista de contacto actualizada");
 console.log(contactos);
 
 function imprimirContactos() {
-    console.log("Lista de contactos:");
-    contactos.forEach(function(contacto) {
-      console.log(contacto);
-    });
-  }
+  console.log("Lista de contactos:");
+  contactos.forEach(function(contacto) {
+    console.log(contacto);
+  });
+ }
   
   imprimirContactos();
+
+  function añadirNuevoContacto(nuevoContacto){
+ 
+    contactos.push(nuevoContacto);
+    
+}
+añadirNuevoContacto("falcao gaarcia" );
+
+
+console.log("lista de contactos actualizada:");
+console.log( contactos);
