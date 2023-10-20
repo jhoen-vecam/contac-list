@@ -56,7 +56,7 @@ function quitarContacto(){
     contactos.splice(0,1);
 }
 quitarContacto();
-console.log("lista de contacto actualizada" , contactos);
+console.log("lista de contacto actualizada:" , contactos);
 //console.log(contactos);
 
 function imprimirContactos() {
@@ -73,7 +73,7 @@ function imprimirContactos() {
    contactos.push(nuevoContacto);
    
 }
-//añadirNuevoContacto("falcao gaarcia" );
+
 
 
 
