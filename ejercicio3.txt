@@ -1,0 +1,5 @@
+Entregable: Lista de contactos en JavaScript
+En tu repositorio de GitHub contact-list, crea un branch llamado review-1
+Completa tu producto de lista de contactos para una revisión en vivo al grupo
+Bonus: Añade una función que permita actualizar un contacto
+Adjunta el link de tu solución en el campo a continuación 📦
